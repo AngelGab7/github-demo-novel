@@ -1,0 +1,7 @@
+Your system policy has denied access to the requested site.
+
+For assistance, contact your network support team.
+
+
+1. Know the difference between a website and a template
+A website is for a specific user , templates are for multiple users . A website will be used once , templates will be used multiple times . When you design a website, you have a particular audience in mind . When you design a template, you’re designing for a general audience . (For example, when you build a website, you’re probably building for a specific plumber; when you build a template , you’re building for it for any plumbers who are your customers, today or in the future.)
